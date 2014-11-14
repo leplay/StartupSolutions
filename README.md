@@ -110,6 +110,9 @@
 ## Test
 - [Runscope](https://www.runscope.com/)
 
+## Translate
+- [OneSky](http://www.oneskyapp.com/)
+
 
 ## Video
 - [Brightcove](http://www.brightcove.com/)
