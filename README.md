@@ -44,6 +44,10 @@
 - [Slack](https://slack.com/)
 - [HipChat](https://www.hipchat.com) 
 
+## Data
+- [Parse](https://www.parse.com/)
+- [Firebase](https://www.firebase.com/)
+
 ## Debug
 - [Raygun](https://raygun.io/)
 - [Bugsnag](https://bugsnag.com/)
@@ -55,6 +59,11 @@
 - [Deploy](https://www.deployhq.com/)
 - [AWS Elastic Beanstalk](http://aws.amazon.com/cn/documentation/elasticbeanstalk/)
 - [Jenkins](http://jenkins-ci.org/)
+
+## Domain
+- [Google Domain](https://domains.google.com/)
+- [iWantMyName](https://iwantmyname.com/)
+- [Domainr](https://domainr.com/)
 
 ## EDM / Send Email 
 - [MailChimp](http://mailchimp.com/)
