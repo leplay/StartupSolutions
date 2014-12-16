@@ -78,6 +78,9 @@
 - [Leaflet](http://leafletjs.com/)
 - [Thunderforest](http://www.thunderforest.com/)
 
+## Oauth
+- [Oauth.io](https://oauth.io/)
+
 ## Payment
 - [Stripe](https://stripe.com/)
 - [FastSpring](http://fastspring.com/)
