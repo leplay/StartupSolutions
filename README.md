@@ -126,8 +126,9 @@
 ## Test
 - [Runscope](https://www.runscope.com/)
 
-## Translate
+## Translate / Localize
 - [OneSky](http://www.oneskyapp.com/)
+- [Localize.js](https://localizejs.com/)
 
 ## Video
 - [Brightcove](http://www.brightcove.com/)
