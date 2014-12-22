@@ -6,6 +6,7 @@
 ## Analytics
 - [Google Analytics](http://www.google.com/analytics/)
 - [Mixpanel](https://mixpanel.com/)
+- [Countly](https://count.ly/)
 
 ## API
 - [Apiary](http://apiary.io/)
