@@ -7,6 +7,7 @@
 - [Google Analytics](http://www.google.com/analytics/)
 - [Mixpanel](https://mixpanel.com/)
 - [Countly](https://count.ly/)
+- [App Annie](http://www.appannie.com/)
 
 ## API
 - [Apiary](http://apiary.io/)
@@ -104,6 +105,9 @@
 ## Push
 - [Pushover](https://pushover.net/)
 - [Pusher](http://pusher.com/)
+
+# Search
+- [Algolia](http://www.algolia.com/)
 
 ## Server / Cloud
 - [Linode](https://www.linode.com/?r=08312726a7c9f875fa7a6941e5ae51845183dda4)
