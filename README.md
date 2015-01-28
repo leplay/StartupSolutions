@@ -106,7 +106,7 @@
 - [Pushover](https://pushover.net/)
 - [Pusher](http://pusher.com/)
 
-# Search
+## Search
 - [Algolia](http://www.algolia.com/)
 
 ## Server / Cloud
