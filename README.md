@@ -105,6 +105,9 @@
 - [Pushover](https://pushover.net/)
 - [Pusher](http://pusher.com/)
 
+# Search
+- [Algolia](http://www.algolia.com/)
+
 ## Server / Cloud
 - [Linode](https://www.linode.com/?r=08312726a7c9f875fa7a6941e5ae51845183dda4)
 - [DigitalOcean](https://www.digitalocean.com/?refcode=3a50fd978f30)
